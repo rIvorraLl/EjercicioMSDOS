@@ -101,3 +101,11 @@ MD NUEVO
 CD c:\Users\rivor\Documents\APLI\WORD\PRACT
 DIR CD c:\Users\rivor\Documents\APLI\WORD\
 ```
+
+## Ejercicio 2
+
+- 1
+
+```powershell
+
+```
