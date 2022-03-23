@@ -106,6 +106,30 @@ DIR CD c:\Users\rivor\Documents\APLI\WORD\
 
 - 1
 
-```powershell
+Hecho, utilizando el editor disponible por defecto en Windows 10, Bloc de notas.
+
+- 2
+
+```
+COPY c:\Users\rivor\Documents\APLI\WORD\TEXTOS\EJER.txt c:\Users\rivor\Documents\VARIOS\AGENDA\EJER.txt
+```
+
+- 3
+
+```
+DEL c:\Users\rivor\Documents\APLI\WORD\TEXTOS\EJER.txt
+```
+
+- 4
+
+Hecho, utilizando Bloc de notas.
+
+- 5
+
+```
+CP :\Users\rivor\Documents\VARIOS\AGENDA\EJER.txt :\Users\rivor\Documents\PROG\BASIC\EJER.txt
+```
+
+- 6
 
 ```
