@@ -127,9 +127,17 @@ Hecho, utilizando Bloc de notas.
 - 5
 
 ```
-CP :\Users\rivor\Documents\VARIOS\AGENDA\EJER.txt :\Users\rivor\Documents\PROG\BASIC\EJER.txt
+CP C:\Users\rivor\Documents\VARIOS\AGENDA\EJER.txt :\Users\rivor\Documents\PROG\BASIC\EJER.txt
 ```
 
 - 6
+
+```
+RENAME :\Users\rivor\Documents\VARIOS\AGENDA\EJER.txt :\Users\rivor\Documents\VARIOS\AGENDA\FICHERO.txt 
+```
+
+- 7
+
+```
 
 ```
