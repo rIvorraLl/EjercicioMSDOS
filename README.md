@@ -214,3 +214,52 @@ OK.
 
 - 10
 
+```
+RENAME <RUTA>GALILEO.txt
+```
+  
+## EJERCICIO 4
+
+- 1
+
+```
+MD <RUTA>TECINFO
+```
+
+- 2
+
+OK.
+
+- 3
+
+OK.
+
+- 4
+
+```
+MOVE TECINFO\* <RUTA>\APLI
+```
+
+- 5
+
+```
+TYPE <RUTA>HARD.TXT <RUTA> SOFT.TXT > <RUTA>\AGENDA\ORDER.TXT
+```
+
+- 6
+
+```
+DELTREE <RUTA>\TECINFO
+```
+
+- 7
+
+```
+COPY <RUTA>\APLI\* <RUTA>\VARIOS
+```
+
+- 8
+
+```
+RENAME <RUTA>\AGENDA\ORDER.txt <RUTA>\AGENDA\ORDER.TYP
+```
