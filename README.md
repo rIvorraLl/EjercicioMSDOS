@@ -106,7 +106,7 @@ DIR CD c:\Users\rivor\Documents\APLI\WORD\
 
 - 1
 
-Hecho, utilizando el editor disponible por defecto en Windows 10, Bloc de notas.
+Hecho, utilizando el editor disponible por defecto en Windows 10, Bloc de notas. En adelante, este tipo de operación se indicará con "OK".
 
 - 2
 
@@ -122,7 +122,7 @@ DEL c:\Users\rivor\Documents\APLI\WORD\TEXTOS\EJER.txt
 
 - 4
 
-Hecho, utilizando Bloc de notas.
+OK.
 
 - 5
 
@@ -191,5 +191,26 @@ OK.
 - 6
 
 ```
-CP APLI\ASTRO\HISTORIA\TYCHO.txt
+COPY APLI\ASTRO\HISTORIA\DATOS1\TYCHO.txt APLI\ASTRO\CIENCIA
+COPY APLI\ASTRO\HISTORIA\DATOS1\KEPLER.txt APLI\ASTRO\CIENCIA
 ```
+
+- 7
+
+```
+MOVE APLI\ASTRO\CIENCIA\TYCHO.txt APLI\ASTRO\HISTORIA\DATOS2
+MOVE APLI\ASTRO\CIENCIA\KEPLER.txt APLI\ASTRO\HISTORIA\DATOS1
+```
+
+- 8
+
+```
+TYPE APLI\ASTRO\HISTORIA\DATOS2\TYCHO.txt APLI\ASTRO\HISTORIA\DATOS1 > APLI\ASTRO\HISTORIA\TOTAL.txt
+```
+
+- 9
+
+OK.
+
+- 10
+
