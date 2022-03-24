@@ -139,5 +139,23 @@ RENAME :\Users\rivor\Documents\VARIOS\AGENDA\EJER.txt :\Users\rivor\Documents\VA
 - 7
 
 ```
+CD
+MOVE VARIOS\AGENDA\FICHERO.txt PROG\BASIC
+```
+
+- 8
+
+```
+Borrado, usando Bloc de notas.
+RENAME VARIOS\AGENDA\EJER.txt \VARIOS\AGENDA\NUEVO.txt
+```
+
+- 9
+
+```
+COPY PROG\BASIC\NUEVO.txt APLI\WORD\NOTAS
+```
+
+- 10
 
 ```
