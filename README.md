@@ -158,4 +158,38 @@ COPY PROG\BASIC\NUEVO.txt APLI\WORD\NOTAS
 
 - 10
 
+3 en BASIC, 1 en NOTAS.
+
+## Ejercicio 3
+
+- 1
+
+```
+RD APLI\ACCESS
+MD APLI\ASTRO
+```
+
+- 2
+
+OK.
+
+- 3
+
+```
+CD APLI\ASTRO\CIENCIA
+TREE ..\HISTORIA
+```
+
+- 4
+
+OK.
+
+- 5
+
+OK.
+
+- 6
+
+```
+CP APLI\ASTRO\HISTORIA\TYCHO.txt
 ```
